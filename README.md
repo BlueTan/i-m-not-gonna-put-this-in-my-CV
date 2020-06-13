@@ -9,9 +9,14 @@ SCDF IBM Call for code
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
 1. [Built with](#built-with)
+1. [Contributing](#contributing)
+1. [Versioning](#versioning)
+1. [Authors](#authors)
+1. [License](#license)
+1. [Acknowledgments](#acknowledgments)
 
 
-## short-description
+## Short Description
 
 Singapore is facing an ageing population and the elderly is expected to make up almost half of Singapore’s population by 2050. As a result, there will also be more of elderly who are living alone without next of kin, placing them at increased risk of injury at home without assistance.
 
@@ -22,22 +27,32 @@ As more elderly will be living alone without next of kin, they may be at increas
 Providing a set of open sourced services by using IBM Cloud and Watson services, develop a system that can help monitor the elderly’s house in event of accidents. This would allow an automated system to alert the respective parties of the elderly’s personal information, address, time of accident and type of accident (either falling down/ cardiac arrest/ stroke) by checking the camera footage. Furthermore this system should help streamline the transport of the elderly to the hospital. This can be achieved by using the system to extract the elderly’s address and using computer algorithms to plan the fastest route to the destination. The journey would also be sped up by alerting other drivers to avoid said path if they can so that there would be less traffic.
 
 
-## the-architecture
+## The Architecture
 
 ![architecture](flowchart.png)
 
-## long-description
+## Long Description
 
-TBD
-
-## project-roadmap
+## Project Roadmap
 
 ![roadmap](roadmap.png)
 
-## getting-started
+## Getting Started
+
+## Built With
+
+## Contributing
+
+## Versioning]
+
+## Authors
+
+## License
+
+## Acknowledgments
 
 
-## built-with
+
 
 
 
