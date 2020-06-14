@@ -31,7 +31,8 @@ Providing a set of open sourced services by using IBM Cloud and Watson services,
 
 ![architecture](architecture.png)
 
-## Long Description
+## Long description
+![Long description of our solution is found here](description.md)
 
 ## Project Roadmap
 
