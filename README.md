@@ -29,14 +29,14 @@ Providing a set of open sourced services by using IBM Cloud and Watson services,
 
 ## The Architecture
 
-![architecture](architecture.png)
+![architecture](docs/architecture.png)
 
 ## Long description
 [Long description of our solution is found here](description.md)
 
 ## Project Roadmap
 
-![roadmap](roadmap.png)
+![roadmap](docs/roadmap.png)
 
 ## Getting Started
 Disclaimer: Code is not complete, it will not function
@@ -49,7 +49,7 @@ Clone the GitHub repo using the download as zip file or typing into command line
 Connect ESP32 to computer using USB port, and flash the camera web server software using the Arduino IDE.
 
 Press upload to flash software.
-![Arduino](Arduinoupload.png)
+![Arduino](docs/Arduinoupload.png)
 
 
 ### Set up Cloudant and get API key
@@ -57,6 +57,15 @@ Press upload to flash software.
 ### Set up image recognition on IBM Watson Studio
 
 Download both negative.zip and falling.zip, these will serve as the training set.
+
+Log into IBM cloud, and go to Watson Studio. 
+
+Create a new project, and name it *"Fall detection"*.
+
+Press *"Add to new project"* and select *"Visual Recognition"*.
+
+![new_project](docs/project.png)
+
 
 ## Built With
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - Database service used
