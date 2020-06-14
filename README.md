@@ -47,15 +47,7 @@ Providing a set of open sourced services by using IBM Cloud and Watson services,
 * [Node-RED](https://nodered.org/) - Programming tool to link our hardware and software together
 
 
-## Contributing
 
-## Versioning
-
-## Authors
-
-## License
-
-## Acknowledgments
 
 
 
