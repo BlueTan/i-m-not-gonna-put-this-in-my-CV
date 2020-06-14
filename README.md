@@ -36,7 +36,7 @@ Providing a set of open sourced services by using IBM Cloud and Watson services,
 
 ## Project Roadmap
 
-![roadmap](roadmap.png)
+[roadmap](roadmap.png)
 
 ## Getting Started
 
