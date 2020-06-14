@@ -29,7 +29,7 @@ Providing a set of open sourced services by using IBM Cloud and Watson services,
 
 ## The Architecture
 
-![architecture](flowchart.png)
+![architecture](architecture.png)
 
 ## Long Description
 
