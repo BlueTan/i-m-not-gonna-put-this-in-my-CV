@@ -21,4 +21,3 @@ Node-RED is a programming tool for wiring together hardware devices, APIs and on
 
 
 
-## Acknowledgments
