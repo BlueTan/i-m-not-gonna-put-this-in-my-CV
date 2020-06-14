@@ -64,7 +64,7 @@ Create a new project, and name it *"Fall detection"*.
 
 Press *"Add to new project"* and select *"Visual Recognition"*.
 
-![new_project](docs/project.png)
+![new_project](docs/Project.png)
 
 
 ## Built With
