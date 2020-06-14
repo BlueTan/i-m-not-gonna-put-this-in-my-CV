@@ -11,11 +11,10 @@ We used ESP32 and CAM Module to make up the surveillance system that takes image
 The system uploads the image data to the IBM Cloudant.
 
 ### IBM Cloudant
-IBM Cloudant® is a distributed database that is optimized for handling heavy workloads that are typical of large, fast-growing web and mobile apps. Available as an SLA-backed, fully managed IBM Cloud™ service, Cloudant elastically scales throughput and storage independently. The image data is saved inside the IBM Cloudant
-
-
+IBM Cloudant® is a distributed database that is optimized for handling heavy workloads that are typical of large, fast-growing web and mobile apps. Available as an SLA-backed, fully managed IBM Cloud™ service, Cloudant elastically scales throughput and storage independently. The image data is saved inside the IBM Cloudant is easily accessible within a short span of time from anywhere around the world. This is especially helpful for our project as time is of the essence for emergency medical services. The images uploaded into IBM Cloudant from our surveillance system is then sent to IBM Image Recognition to identify if elderly is injured or not.
 
 ### IBM Image Recognition
+By utilising the Watson Machine Learning inside IBM Image Recognition services, we use it to determine if elderly has been immobile for 2 minutes. If he/she has been lying on the floor for 75% of the time (1 minute 30 seconds) and has not stood up, the data will be sent over to IBM Cloud Functions and Apache OpwnWhisk.
 
 ### IBM Cloud Functions and Apache OpenWhisk
 
