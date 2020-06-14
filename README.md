@@ -39,6 +39,24 @@ Providing a set of open sourced services by using IBM Cloud and Watson services,
 ![roadmap](roadmap.png)
 
 ## Getting Started
+Disclaimer: Code is not complete, it will not function
+
+Clone the GitHub repo using the download as zip file or typing into command line:
+`git clone https://github.com/BlueTan/i-m-not-gonna-put-this-in-my-CV`
+
+
+### Hardware: ESP32 CAM
+Connect ESP32 to computer using USB port, and flash the camera web server software using the Arduino IDE.
+
+Press upload to flash software.
+![Arduino](Arduinoupload.png)
+
+
+### Set up Cloudant and get API key
+
+### Set up image recognition on IBM Watson Studio
+
+Download both negative.zip and falling.zip, these will serve as the training set.
 
 ## Built With
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - Database service used
