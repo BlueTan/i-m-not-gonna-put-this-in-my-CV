@@ -1,4 +1,4 @@
-# Submission name
+# I might put this on my CV
 
 Our solution is made by utilising IBM Cloud and Watson services, we are able to develop a system that uses machine learning to identify elderly in isolated situations and contact Community First Responders (CFRs) and SCDF First Responders during trauma or collapse cases through the myResponder application. Our code links a surveillance system to the wireless network and is able to contact emergency services through an automated messaging system when elderly exhibit signs of injury or distress.
 
