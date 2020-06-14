@@ -1,5 +1,5 @@
 # Submission name
-SCDF IBM Call for code
+Group "I might put this on my CV"'s submission for SCDF X IBM - Lifesavers' Innovation Challenge: Call For Code 2020.
 
 ## Contents
 
