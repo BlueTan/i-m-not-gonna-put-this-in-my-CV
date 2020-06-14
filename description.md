@@ -5,7 +5,7 @@ Our solution is made by utilising IBM Cloud and Watson services, we are able to 
 [Project website](https://github.com/BlueTan/i-m-not-gonna-put-this-in-my-CV)
 
 ## Surveillance system
-We used ESP32 and CAM Module to make up the surveillance system that takes images of a room at 5 second intervals. The ESP32 is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth abilities. It is used to host a web server which then uploads the image data to the IBM Cloudant where it is stored for the image recognition model to process. With integrated Wi-Fi and dual-mode Bluetooth abilities, we are able to send an output towards IBM Cloudant.
+We used ESP32 and CAM Module to make up the surveillance system that takes images of a room at 5 second intervals. The ESP32 is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth abilities. It is used to host a web server which then uploads the image data to the IBM Cloudant where it is stored for the image recognition model to process. With integrated Wi-Fi and dual-mode Bluetooth abilities, we are able to send an output towards IBM Cloudant. The CAM Module is used to capture images in 5 second intervals before the ESP32 uploads image data onto IBM Cloudant.
 
 ### IBM Cloudant
 IBM Cloudant® is a distributed database that is optimized for handling heavy workloads that are typical of large, fast-growing web and mobile apps. Available as an SLA-backed, fully managed IBM Cloud™ service, Cloudant elastically scales throughput and storage independently. IBM Cloudant helps us to store image data inside their database and forward it towards the image recognition services to help us analyse them.
