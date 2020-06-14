@@ -43,7 +43,7 @@ Providing a set of open sourced services by using IBM Cloud and Watson services,
 ## Built With
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - Database service used
 * [IBM Cloud Functions (based on Apache OpenWhisk)](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - To run our code
-* [IBM Image Recognition] - Used to identify our target group
+* [IBM Image Recognition](https://www.ibm.com/cloud/watson-visual-recognition) - Used to identify our target group
 * [Node-RED](https://nodered.org/) - Programming tool to link our hardware and software together
 
 
