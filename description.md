@@ -16,8 +16,8 @@ IBM Image Recognition Watson services is able to analyse and classify images usi
 ### IBM Cloud Functions (based on Apache OpenWhisk)
 Based on Apache OpenWhisk, IBM Cloud Functions is a polyglot functions-as-a-service (FaaS) programming platform for developing lightweight code that scalably executes on demand. IBM Cloud Functions is able to be executed a function within fractions of a second, in our solution, the function that is executed is to send data towards myResponders to nearby CFRs (elderly's address and time of incident) and SCDF First Responders (elderly's personal information and medical history if possible).
 
-### Node Red
-Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways. It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
+### Node-RED
+Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways. It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click. Node-RED assists us by linking the ESP32 and CAM Module with IBM services to ensure a smooth process throughout.
 
 
 
