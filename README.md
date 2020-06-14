@@ -32,11 +32,11 @@ Providing a set of open sourced services by using IBM Cloud and Watson services,
 ![architecture](architecture.png)
 
 ## Long description
-![Long description of our solution is found here](description.md)
+[Long description of our solution is found here](description.md)
 
 ## Project Roadmap
 
-[roadmap](roadmap.png)
+![roadmap](roadmap.png)
 
 ## Getting Started
 
