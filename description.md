@@ -17,6 +17,7 @@ When image is fed into Watson Studio from IBM Cloudant, it will process the imag
 
 
 ### IBM Cloud Functions (formerly Apache OpenWhisk)
+IBM Cloud Functions is able to be executed a function within fractions of a second.
 
 ### Node Red
 
