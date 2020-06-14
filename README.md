@@ -66,6 +66,15 @@ Press *"Add to new project"* and select *"Visual Recognition"*.
 
 ![new_project](docs/Project.png)
 
+Create model and then upload *Negative.zip* as well as *Test.zip*
+
+![Uploadtrain](docs/Uploadntrain.png)
+
+Press `Train Model` to start training. This will take a while.
+
+To test the trained model, find any image of elderly sustaining fall injury or stroke. It should display a high degree of confidence. Your model is now trained! :smiley_cat: :thumbsup:
+
+![Testingmodel](docs/Testing.png)
 
 ## Built With
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - Database service used
